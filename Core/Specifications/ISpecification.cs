@@ -15,6 +15,6 @@ namespace Core.Specifications
         int Skip {get;}
         int Take {get;}
 
-        bool isPagingEnabled{get;}
+        bool isPagingEnabled {get;}
     }
 }
