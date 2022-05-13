@@ -15,3 +15,7 @@ https://wiki.iphoster.net/wiki/Google_Chrome_84_-_NET:ERR_SSL_OBSOLETE_VERSION_-
 To bypass this problem open chrome and paste
 chrome://flags/#legacy-tls-enforced
 then choose disable option and you will have to relaunch the chrome again and you should be all set
+
+# Angular Http Interceptors
+    ng g interceptor error
+    an interceptor implements HttpIntercepto class in angular
