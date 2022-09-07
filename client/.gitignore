@@ -10,6 +10,8 @@
 # dependencies
 /node_modules
 
+#Angular cache //this cache may be the result of migrating from angular 12 to 14
+.angular
 # profiling files
 chrome-profiler-events*.json
 
